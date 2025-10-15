@@ -36,5 +36,7 @@ To connect people and institutions across Switzerland around trustworthy and hum
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License** – feel free to use and contribute.
+## © IA Resources Switzerland  
+All rights reserved. Content and visuals may not be reproduced without permission.
+
 
