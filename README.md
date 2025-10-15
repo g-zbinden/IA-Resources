@@ -29,7 +29,9 @@ To connect people and institutions across Switzerland around trustworthy and hum
 
 ## 👥 Authors & Contributors
 **Gonzalo Zbinden** – Founder & Digital Strategy Lead  
-[IA Resources Switzerland](https://iaresources.ch){:target="_blank" rel="noopener"}
+[IA Resources Switzerland](https://iaresources.ch)
+<a href="https://www.linkedin.com/in/zbinden-geneve/" target="_blank" rel="noopener">
+      LinkedIn Profile
 
 ---
 
