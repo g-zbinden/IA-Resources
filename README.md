@@ -36,7 +36,9 @@ To connect people and institutions across Switzerland around trustworthy and hum
 ---
 
 ## 📄 License
+
 ## © IA Resources Switzerland  
-All rights reserved. Content and visuals may not be reproduced without permission.
+All rights reserved. No part of this project, its code or content may be reproduced without permission.
+
 
 
