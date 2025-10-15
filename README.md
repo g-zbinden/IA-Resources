@@ -1,6 +1,6 @@
-# IAResources – Switzerland 🇨🇭
+# IA Resources – Switzerland 🇨🇭
 
-IAResources is a curated platform showcasing **AI courses, events, reports and resources** across Switzerland.  
+IA Resources is a curated platform showcasing **AI courses, events, reports and resources** across Switzerland.  
 Its goal is to make artificial intelligence education and collaboration more accessible, ethical, and transparent.
 
 ---
